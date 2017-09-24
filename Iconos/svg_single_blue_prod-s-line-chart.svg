@@ -1,0 +1,44 @@
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 583.77 492.83">
+  <defs>
+    <style>
+          #Layer_1{
+            padding-left: 2em;
+            padding-top: 2em;
+          }
+          #Layer_2{
+            padding-left: 2em;
+            padding-top: 2em;
+          }
+          .cls-1 {
+            fill: none;
+            stroke: #9CAFB7;
+            stroke-miterlimit: 10;
+            stroke-width: 20px;
+            stroke-linecap: round;
+          }
+          .cls-2 {
+            fill: none;
+            stroke: none;
+            stroke-miterlimit: 10;
+            stroke-width: 9px;
+            stroke-linecap: round;
+          }
+        </style>
+  </defs>
+  <title>prod-s-line-chart</title>
+  <g id="Layer_7" data-name="Layer 7">
+    <path  class=" CNBGBFGC_0 cls-1 " y1="10" x2="583.77" y2="10" d="M0,10.0L583.77,10.0"></path>
+    <path  class=" CNBGBFGC_1 cls-1 " x="17.98" y="39.04" width="550.88" height="350" d="M17.98 39.04 L568.86 39.04 L568.86 389.04 L17.98 389.04 Z"></path>
+    <path  class=" CNBGBFGC_2 cls-1 " x1="293.42" y1="389.04" x2="293.42" y2="439.03" d="M293.42,389.04L293.42,439.03"></path>
+    <path  class=" CNBGBFGC_3 cls-1 " cx="292.54" cy="471.34" r="16.49" d="M276.05,471.34A16.49,16.49 0,1,1 309.03000000000003,471.34A16.49,16.49 0,1,1 276.05,471.34"></path>
+  </g> 
+<g id="Layer_7" data-name="Layer 7">
+    <path  class=" CNBGBFGC_0 cls-2 " y1="10" x2="583.77" y2="10" d="M0,10.0L583.77,10.0"></path>
+    <path  class=" CNBGBFGC_1 cls-2 " x="17.98" y="39.04" width="550.88" height="350" d="M17.98 39.04 L568.86 39.04 L568.86 389.04 L17.98 389.04 Z"></path>
+    <path  class=" CNBGBFGC_2 cls-2 " x1="293.42" y1="389.04" x2="293.42" y2="439.03" d="M293.42,389.04L293.42,439.03"></path>
+    <path  class=" CNBGBFGC_3 cls-2 " cx="292.54" cy="471.34" r="16.49" d="M276.05,471.34A16.49,16.49 0,1,1 309.03000000000003,471.34A16.49,16.49 0,1,1 276.05,471.34"></path>
+  </g>
+<style>.CNBGBFGC_0{stroke-dasharray:3523 3525;stroke-dashoffset:3524;animation:CNBGBFGC_draw 2000ms ease-out 0ms forwards;}.CNBGBFGC_0{stroke-dasharray:584 586;stroke-dashoffset:585;animation:CNBGBFGC_draw 2000ms ease-out 100ms forwards;}.CNBGBFGC_1{stroke-dasharray:1802 1804;stroke-dashoffset:1803;animation:CNBGBFGC_draw 2000ms ease-out 100ms forwards;}.CNBGBFGC_2{stroke-dasharray:50 52;stroke-dashoffset:51;animation:CNBGBFGC_draw 2000ms ease-out 100ms forwards;}.CNBGBFGC_3{stroke-dasharray:104 106;stroke-dashoffset:105;animation:CNBGBFGC_draw 2000ms ease-out 100ms forwards;}@keyframes CNBGBFGC_draw{100%{stroke-dashoffset:0;}}@keyframes CNBGBFGC_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>
+

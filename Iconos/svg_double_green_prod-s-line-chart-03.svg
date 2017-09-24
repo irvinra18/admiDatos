@@ -1,0 +1,62 @@
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 583.72 498.78">
+  <defs>
+    <style>
+          #Layer_1{
+            padding-left: 2em;
+            padding-top: 2em;
+          }
+          #Layer_2{
+            padding-left: 2em;
+            padding-top: 2em;
+          }
+          .cls-1 {
+            fill: none;
+            stroke: #84DCC6;
+            stroke-miterlimit: 10;
+            stroke-width: 40px;
+            stroke-linecap: round;
+          }
+          .cls-2 {
+            fill: none;
+            stroke: #A5FFD6;
+            stroke-miterlimit: 10;
+            stroke-width: 9px;
+            stroke-linecap: round;
+          }
+        </style>
+  </defs>
+  <title>prod-s-line-chart-03</title>
+  <g id="Layer_7" data-name="Layer 7">
+    <path  class=" FJQELVZR_0 cls-1 " x1="2.5" x2="3.26" y2="498.78" d="M2.5,0L3.26,498.78"></path>
+    <path  class=" FJQELVZR_1 cls-1 " x1="3.26" y1="486.82" x2="583.72" y2="486.82" d="M3.26,486.82L583.72,486.82"></path>
+    <g>
+      <path  class=" FJQELVZR_2 cls-1 " x1="75.49" y1="456.27" x2="75.49" y2="43.17" d="M75.49,456.27L75.49,43.17"></path>
+      <path  class=" FJQELVZR_3 cls-1 " x1="214.28" y1="456.27" x2="214.28" y2="141.47" d="M214.28,456.27L214.28,141.47"></path>
+      <path  class=" FJQELVZR_4 cls-1 " x1="354.2" y1="456.27" x2="354.2" y2="255.7" d="M354.2,456.27L354.2,255.7"></path>
+      <path  class=" FJQELVZR_5 cls-1 " x1="494.13" y1="456.27" x2="494.13" y2="340.71" d="M494.13,456.27L494.13,340.71"></path>
+    </g>
+    <path  class=" FJQELVZR_6 cls-1 " x1="5.87" y1="8.64" x2="24.33" y2="8.64" d="M5.87,8.64L24.33,8.64"></path>
+    <path  class=" FJQELVZR_7 cls-1 " x1="4.58" y1="100.62" x2="24.33" y2="100.62" d="M4.58,100.62L24.33,100.62"></path>
+    <path  class=" FJQELVZR_8 cls-1 " x1="4.58" y1="192.61" x2="24.33" y2="192.61" d="M4.58,192.61L24.33,192.61"></path>
+    <path  class=" FJQELVZR_9 cls-1 " x1="4.4" y1="284.59" x2="24.33" y2="284.59" d="M4.4,284.59L24.33,284.59"></path>
+    <path  class=" FJQELVZR_10 cls-1 " x1="3.91" y1="376.58" x2="24.33" y2="376.58" d="M3.91,376.58L24.33,376.58"></path>
+  </g> 
+<g id="Layer_7" data-name="Layer 7">
+    <path  class=" FJQELVZR_0 cls-2 " x1="2.5" x2="3.26" y2="498.78" d="M2.5,0L3.26,498.78"></path>
+    <path  class=" FJQELVZR_1 cls-2 " x1="3.26" y1="486.82" x2="583.72" y2="486.82" d="M3.26,486.82L583.72,486.82"></path>
+    <g>
+      <path  class=" FJQELVZR_2 cls-2 " x1="75.49" y1="456.27" x2="75.49" y2="43.17" d="M75.49,456.27L75.49,43.17"></path>
+      <path  class=" FJQELVZR_3 cls-2 " x1="214.28" y1="456.27" x2="214.28" y2="141.47" d="M214.28,456.27L214.28,141.47"></path>
+      <path  class=" FJQELVZR_4 cls-2 " x1="354.2" y1="456.27" x2="354.2" y2="255.7" d="M354.2,456.27L354.2,255.7"></path>
+      <path  class=" FJQELVZR_5 cls-2 " x1="494.13" y1="456.27" x2="494.13" y2="340.71" d="M494.13,456.27L494.13,340.71"></path>
+    </g>
+    <path  class=" FJQELVZR_6 cls-2 " x1="5.87" y1="8.64" x2="24.33" y2="8.64" d="M5.87,8.64L24.33,8.64"></path>
+    <path  class=" FJQELVZR_7 cls-2 " x1="4.58" y1="100.62" x2="24.33" y2="100.62" d="M4.58,100.62L24.33,100.62"></path>
+    <path  class=" FJQELVZR_8 cls-2 " x1="4.58" y1="192.61" x2="24.33" y2="192.61" d="M4.58,192.61L24.33,192.61"></path>
+    <path  class=" FJQELVZR_9 cls-2 " x1="4.4" y1="284.59" x2="24.33" y2="284.59" d="M4.4,284.59L24.33,284.59"></path>
+    <path  class=" FJQELVZR_10 cls-2 " x1="3.91" y1="376.58" x2="24.33" y2="376.58" d="M3.91,376.58L24.33,376.58"></path>
+  </g>
+<style>.FJQELVZR_0{stroke-dasharray:3523 3525;stroke-dashoffset:3524;animation:FJQELVZR_draw 2000ms ease-out 0ms forwards;}.FJQELVZR_0{stroke-dasharray:499 501;stroke-dashoffset:500;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_1{stroke-dasharray:580 582;stroke-dashoffset:581;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_2{stroke-dasharray:413 415;stroke-dashoffset:414;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_3{stroke-dasharray:315 317;stroke-dashoffset:316;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_4{stroke-dasharray:201 203;stroke-dashoffset:202;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_5{stroke-dasharray:116 118;stroke-dashoffset:117;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_6{stroke-dasharray:18 20;stroke-dashoffset:19;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_7{stroke-dasharray:20 22;stroke-dashoffset:21;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_8{stroke-dasharray:20 22;stroke-dashoffset:21;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_9{stroke-dasharray:20 22;stroke-dashoffset:21;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}.FJQELVZR_10{stroke-dasharray:20 22;stroke-dashoffset:21;animation:FJQELVZR_draw 2000ms ease-out 100ms forwards;}@keyframes FJQELVZR_draw{100%{stroke-dashoffset:0;}}@keyframes FJQELVZR_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>
+

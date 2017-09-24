@@ -1,0 +1,74 @@
+
+
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 592.26 230.46">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #17aaaa;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #17aaaa;
+      }
+    </style>
+  </defs>
+  <title>prod-s-line-chart-10</title>
+  <g>
+    <path  class=" SVKSKUWR_0 cls-1 " x1="25.23" y1="194.18" x2="141.65" y2="129.65" d="M25.23,194.18L141.65,129.65"></path>
+    <path  class=" SVKSKUWR_1 cls-1 " x1="159" y1="132.32" x2="210.74" y2="172.44" d="M159.0,132.32L210.74,172.44"></path>
+    <path  class=" SVKSKUWR_2 cls-1 " x1="228.15" y1="169.24" x2="297.91" y2="95.05" d="M228.15,169.24L297.91,95.05"></path>
+    <path  class=" SVKSKUWR_3 cls-1 " x1="319.5" y1="84.29" x2="409.74" y2="54.25" d="M319.5,84.29L409.74,54.25"></path>
+    <path  class=" SVKSKUWR_4 cls-1 " x1="429.54" y1="57.67" x2="479.32" y2="97.68" d="M429.54,57.67L479.32,97.68"></path>
+    <path  class=" SVKSKUWR_5 cls-1 " x1="496.31" y1="92.63" x2="564.31" y2="19.74" d="M496.31,92.63L564.31,19.74"></path>
+    <path  class=" SVKSKUWR_6 cls-1 " cx="14.37" cy="200.88" r="11.87" d="M2.5,200.88A11.87,11.87 0,1,1 26.24,200.88A11.87,11.87 0,1,1 2.5,200.88"></path>
+    <path  class=" SVKSKUWR_7 cls-1 " cx="150.59" cy="125.65" r="11.87" d="M138.72,125.65A11.87,11.87 0,1,1 162.46,125.65A11.87,11.87 0,1,1 138.72,125.65"></path>
+    <path  class=" SVKSKUWR_8 cls-1 " cx="219.91" cy="179.21" r="11.87" d="M208.04,179.21A11.87,11.87 0,1,1 231.78,179.21A11.87,11.87 0,1,1 208.04,179.21"></path>
+    <path  class=" SVKSKUWR_9 cls-1 " cx="308.59" cy="90.2" r="11.87" d="M296.71999999999997,90.2A11.87,11.87 0,1,1 320.46,90.2A11.87,11.87 0,1,1 296.71999999999997,90.2"></path>
+    <path  class=" SVKSKUWR_10 cls-1 " cx="420.27" cy="52.79" r="11.87" d="M408.4,52.79A11.87,11.87 0,1,1 432.14,52.79A11.87,11.87 0,1,1 408.4,52.79"></path>
+    <path  class=" SVKSKUWR_11 cls-1 " cx="487.25" cy="102.29" r="11.87" d="M475.38,102.29A11.87,11.87 0,1,1 499.12,102.29A11.87,11.87 0,1,1 475.38,102.29"></path>
+    <path  class=" SVKSKUWR_12 cls-1 " cx="572.3" cy="14.37" r="11.87" d="M560.43,14.37A11.87,11.87 0,1,1 584.17,14.37A11.87,11.87 0,1,1 560.43,14.37"></path>
+    <path  class=" SVKSKUWR_13 cls-2 " cx="14.37" cy="200.88" r="5.09" d="M9.28,200.88A5.09,5.09 0,1,1 19.46,200.88A5.09,5.09 0,1,1 9.28,200.88"></path>
+    <path  class=" SVKSKUWR_14 cls-2 " cx="150.59" cy="125.65" r="5.09" d="M145.5,125.65A5.09,5.09 0,1,1 155.68,125.65A5.09,5.09 0,1,1 145.5,125.65"></path>
+    <path  class=" SVKSKUWR_15 cls-2 " cx="219.91" cy="179.21" r="5.09" d="M214.82,179.21A5.09,5.09 0,1,1 225.0,179.21A5.09,5.09 0,1,1 214.82,179.21"></path>
+    <path  class=" SVKSKUWR_16 cls-2 " cx="308.59" cy="90.2" r="5.09" d="M303.5,90.2A5.09,5.09 0,1,1 313.67999999999995,90.2A5.09,5.09 0,1,1 303.5,90.2"></path>
+    <path  class=" SVKSKUWR_17 cls-2 " cx="420.27" cy="52.79" r="5.09" d="M415.18,52.79A5.09,5.09 0,1,1 425.35999999999996,52.79A5.09,5.09 0,1,1 415.18,52.79"></path>
+    <path  class=" SVKSKUWR_18 cls-2 " cx="487.25" cy="102.29" r="5.09" d="M482.16,102.29A5.09,5.09 0,1,1 492.34,102.29A5.09,5.09 0,1,1 482.16,102.29"></path>
+    <path  class=" SVKSKUWR_19 cls-2 " cx="572.3" cy="14.37" r="5.09" d="M567.2099999999999,14.37A5.09,5.09 0,1,1 577.39,14.37A5.09,5.09 0,1,1 567.2099999999999,14.37"></path>
+  </g>
+  <g>
+    <path  class=" SVKSKUWR_20 cls-3 " cx="15.57" cy="95.05" r="11.87" d="M3.700000000000001,95.05A11.87,11.87 0,1,1 27.439999999999998,95.05A11.87,11.87 0,1,1 3.700000000000001,95.05"></path>
+    <path  class=" SVKSKUWR_21 cls-3 " cx="102.24" cy="195.64" r="11.87" d="M90.36999999999999,195.64A11.87,11.87 0,1,1 114.11,195.64A11.87,11.87 0,1,1 90.36999999999999,195.64"></path>
+    <path  class=" SVKSKUWR_22 cls-3 " cx="171.41" cy="216.09" r="11.87" d="M159.54,216.09A11.87,11.87 0,1,1 183.28,216.09A11.87,11.87 0,1,1 159.54,216.09"></path>
+    <path  class=" SVKSKUWR_23 cls-3 " cx="283.52" cy="179.21" r="11.87" d="M271.65,179.21A11.87,11.87 0,1,1 295.39,179.21A11.87,11.87 0,1,1 271.65,179.21"></path>
+    <path  class=" SVKSKUWR_24 cls-3 " cx="363.03" cy="23.51" r="11.87" d="M351.15999999999997,23.51A11.87,11.87 0,1,1 374.9,23.51A11.87,11.87 0,1,1 351.15999999999997,23.51"></path>
+    <path  class=" SVKSKUWR_25 cls-3 " cx="439.64" cy="141.97" r="11.87" d="M427.77,141.97A11.87,11.87 0,1,1 451.51,141.97A11.87,11.87 0,1,1 427.77,141.97"></path>
+    <path  class=" SVKSKUWR_26 cls-3 " cx="577.89" cy="90.43" r="11.87" d="M566.02,90.43A11.87,11.87 0,1,1 589.76,90.43A11.87,11.87 0,1,1 566.02,90.43"></path>
+    <path  class=" SVKSKUWR_27 cls-4 " cx="15.57" cy="95.05" r="5.09" d="M10.48,95.05A5.09,5.09 0,1,1 20.66,95.05A5.09,5.09 0,1,1 10.48,95.05"></path>
+    <path  class=" SVKSKUWR_28 cls-4 " cx="102.24" cy="195.64" r="5.09" d="M97.14999999999999,195.64A5.09,5.09 0,1,1 107.33,195.64A5.09,5.09 0,1,1 97.14999999999999,195.64"></path>
+    <path  class=" SVKSKUWR_29 cls-4 " cx="171.41" cy="216.09" r="5.09" d="M166.32,216.09A5.09,5.09 0,1,1 176.5,216.09A5.09,5.09 0,1,1 166.32,216.09"></path>
+    <path  class=" SVKSKUWR_30 cls-4 " cx="283.52" cy="179.21" r="5.09" d="M278.43,179.21A5.09,5.09 0,1,1 288.60999999999996,179.21A5.09,5.09 0,1,1 278.43,179.21"></path>
+    <path  class=" SVKSKUWR_31 cls-4 " cx="363.03" cy="23.51" r="5.09" d="M357.94,23.51A5.09,5.09 0,1,1 368.11999999999995,23.51A5.09,5.09 0,1,1 357.94,23.51"></path>
+    <path  class=" SVKSKUWR_32 cls-4 " cx="439.64" cy="141.97" r="5.09" d="M434.55,141.97A5.09,5.09 0,1,1 444.72999999999996,141.97A5.09,5.09 0,1,1 434.55,141.97"></path>
+    <path  class=" SVKSKUWR_33 cls-4 " cx="577.89" cy="90.43" r="5.09" d="M572.8,90.43A5.09,5.09 0,1,1 582.98,90.43A5.09,5.09 0,1,1 572.8,90.43"></path>
+    <path  class=" SVKSKUWR_34 cls-3 " x1="22.08" y1="105.62" x2="93" y2="186.1" d="M22.08,105.62L93.0,186.1"></path>
+    <path  class=" SVKSKUWR_35 cls-3 " x1="115.31" y1="200.73" x2="158.34" y2="211.15" d="M115.31,200.73L158.34,211.15"></path>
+    <path  class=" SVKSKUWR_36 cls-3 " x1="182.5" y1="213.81" x2="273.93" y2="184.91" d="M182.5,213.81L273.93,184.91"></path>
+    <path  class=" SVKSKUWR_37 cls-3 " x1="291.48" y1="170.43" x2="357.6" y2="34.05" d="M291.48,170.43L357.6,34.05"></path>
+    <path  class=" SVKSKUWR_38 cls-3 " x1="370.66" y1="34.11" x2="429.54" y2="132.32" d="M370.66,34.11L429.54,132.32"></path>
+    <path  class=" SVKSKUWR_39 cls-3 " x1="451.51" y1="139.25" x2="566.45" y2="96.52" d="M451.51,139.25L566.45,96.52"></path>
+  </g>
+<style>.SVKSKUWR_0{stroke-dasharray:3523 3525;stroke-dashoffset:3524;animation:SVKSKUWR_draw 2000ms ease-out 0ms forwards;}.SVKSKUWR_0{stroke-dasharray:133 135;stroke-dashoffset:134;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_1{stroke-dasharray:65 67;stroke-dashoffset:66;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_2{stroke-dasharray:102 104;stroke-dashoffset:103;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_3{stroke-dasharray:95 97;stroke-dashoffset:96;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_4{stroke-dasharray:64 66;stroke-dashoffset:65;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_5{stroke-dasharray:100 102;stroke-dashoffset:101;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_6{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_7{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_8{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_9{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_10{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_11{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_12{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_13{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_14{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_15{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_16{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_17{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_18{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_19{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_20{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_21{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_22{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_23{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_24{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_25{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_26{stroke-dasharray:75 77;stroke-dashoffset:76;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_27{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_28{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_29{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_30{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_31{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_32{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_33{stroke-dasharray:32 34;stroke-dashoffset:33;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_34{stroke-dasharray:107 109;stroke-dashoffset:108;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_35{stroke-dasharray:44 46;stroke-dashoffset:45;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_36{stroke-dasharray:96 98;stroke-dashoffset:97;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_37{stroke-dasharray:152 154;stroke-dashoffset:153;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_38{stroke-dasharray:115 117;stroke-dashoffset:116;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}.SVKSKUWR_39{stroke-dasharray:123 125;stroke-dashoffset:124;animation:SVKSKUWR_draw 2000ms ease-out 100ms forwards;}@keyframes SVKSKUWR_draw{100%{stroke-dashoffset:0;}}@keyframes SVKSKUWR_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>
+
